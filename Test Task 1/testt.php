@@ -106,7 +106,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
            <input type="email" class="form-control" id="email"name="email"required>
         </div>
         <div class="mb-3">
-            <label for="message"class="form-label">Введите сообщнение *</label>
+            <label for="message"class="form-label">Введите сообщение *</label>
             <textarea class="form-control" id="message" name="message"rows="3"required></textarea>
         </div>
         <div class="mb-3">
